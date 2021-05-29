@@ -1,0 +1,106 @@
+========================================================================================================================
+
+Deberá enviar UNA SOLA CARPETA ZIPEADA CON SU ApellidoNombre con todo el código para que se ejecute.
+Ejemplo:
+			ArteagaAdair.zip
+
+Enviar al correo con el siguiente asunto:
+
+Examen Parcial - 1er Ciclo - Nombre y apellido
+
+al siguiente correo: adair.arteaga@enhacke.com
+
+Buena suerte muchachos, lean bien y recuerden son temas que ya vimos en clase.
+Si tienen dudas al respecto o algo no a sido bien explicado, háganlo saber en el grupo, para que así les
+faciliten a sus compañeros en caso tenga las mismas consultas.
+Importante ver el video para que tengan una idea clara.
+OJO: 
+	Los outputs colocados son de ejemplo.
+========================================================================================================================
+
+Hacer un menú en donde cada opción sea un ejercicio y que pregunte 1 y 0, donde 0 es para salir y 1 es 
+para continuar.
+
+========================================================================================================================
+
+Ejercicio 01: (2 puntos)
+
+Se le pide desarrollar un programa de consola que simule un reloj y que se le pueda programar una o varias alarmas, 
+dependiendo de las que necesite el usuario. 
+Nota: La hora de referencia es 00:00 
+
+Output:
+
+Ingrese la cantidad de alarmas que desea registrar: 2
+
+Hora - Alarma 1: 16
+
+Minutos - Alarma 1: 30
+
+Mensaje - Alarma 1: Despierta!!
+
+Hora - Alarma 2: 19
+
+Minutos - Alarma 2: 30
+
+Mensaje - Alarma 2: Es hora de Cenar!!
+----- FIN DEL PROGRAMA ----
+
+======================================================================================================================= 
+
+Ejercicio 02: (5 puntos)
+
+Se pide desarrollar un programa que permita recibir N números (con más de 3 dígitos) y que haga lo siguiente:
+
+- Si el primer dígito empieza con un 1, invertir los números.
+- Si el primer dígito empieza con un número par y la cantidad de dígitos sea par, mostrar lo siguiente:
+Output
+	Ingrese un número: 202020
+	222
+
+- Si el primer dígito empieza con un número impar y la cantidad de dígitos sea impar, mostrar lo siguiente
+Output
+	Ingrese un número: 345678
+	36
+
+======================================================================================================================= 
+
+Ejercicio 03: (6 puntos)
+
+En matemáticas existen números llamados los H4x0rs, los cuales cumplen una propiedad interesante, la cual es que 
+la suma de sus dígitos (excepto el último) es igual al último dígito (tomado de izquierda a derecha).
+
+Un ejemplo de número H4x0r es: 213 - Porque 2 + 1 = 3
+Output:
+	El número 213 es H4x0r
+
+Se le pide desarrollar un programa que halle todos los números H4x0rs que cumplan en el rango de 0-1000
+
+========================================================================================================================
+
+Ejercicio 04: (7 puntos)
+
+Se le pide desarrollar un programa de consola para una pequeña bogeda que solo vende 
+articulos de limpieza, golosinas y aseo personal. 
+
+Entre estas categorías de productos son: 
+Entre articulos de limpieza solo se tienen disponible: Lavavajillas, Detergente y Limpiador de piso. 
+Entre las golosinas se tienen disponible: Galletas, Chupetines y Chicles. 
+Entre los productos de aseo personal se tienen: Jabón, Shampo y Acondicionador.
+
+Se le pide a usted que el programa cumpla con los siguientes requisitos:
+
+    - Que se le pida al usuario la cantidad de productos que desea registrar en la venta.
+    - Que en la venta se permita registrar por cada producto: el nombre, la cantidad a vender y el precio unitario.
+    - Que al final de registrar todos los productos se visualice las siguientes estadisticas: 
+	Output:
+		Precio total a pagar
+		Cantidad de productos vendidos
+	  	Porcentaje de productos de limpieza (de la venta total)
+		Porcentaje de productos de aseo personal (de la venta total)
+	  	Porcentaje de golosinas (de la venta total).	  
+	  
+========================================================================================================================
+AVISO:
+No es necesario trabajar con funciones.
+========================================================================================================================
