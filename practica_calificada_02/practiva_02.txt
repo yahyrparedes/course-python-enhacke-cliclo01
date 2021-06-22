@@ -1,0 +1,61 @@
+========================================================================================================================
+
+Deberá enviar UNA SOLA CARPETA ZIPEADA CON SU ApellidoNombre con todo el código para que se ejecute.
+Ejemplo:
+			ArteagaAdair.zip
+
+Nota: cada ejercicio es un script
+
+Enviar al correo con el siguiente asunto:
+
+Practica Calificada 2 - 1er Ciclo - Nombre y apellido
+
+al siguiente correo: adair.arteaga@enhacke.com
+
+Buena suerte muchachos, lean bien y recuerden son temas que ya vimos en clase.
+Si tienen dudas al respecto o algo no a sido bien explicado, háganlo saber en el grupo, para que así les
+faciliten a sus compañeros en caso tenga las mismas consultas.
+Importante ver el video para que tengan una idea clara.
+OJO:
+	Los outputs colocados son de ejemplo.
+========================================================================================================================
+
+- Listas:
+Dado la siguiente lista
+cursos = ["Matemáticas", "Física", "Química", "Historia", "Lengua"]
+Realizar lo siguiente:
+Que pregunte y muestre la nota, después de cada curso de la lista cursos
+Output:
+    ¿Qué nota has sacado en Matemáticas? 6
+    ¿Qué nota has sacado en Física? 7
+    ¿Qué nota has sacado en Química? 4
+    ¿Qué nota has sacado en Historia? 6
+    ¿Qué nota has sacado en Lengua? 5
+
+    En Matemáticas has sacado 6
+    En Física has sacado 7
+    En Química has sacado 4
+    En Historia has sacado 6
+    En Lengua has sacado 5
+
+-Tuplas:
+De la siguiente tupla:
+numeros = (1,2,3,4,5,6,7,8)
+Realizar lo siguiente:
+Que genere una lista llamada cuadrados, halle los cuadrados de cada número de la tupla y mostrar la lista creada.
+Output:
+	El cuadrado de 1 es 1
+    El cuadrado de 2 es 4
+    El cuadrado de 3 es 9
+    El cuadrado de 4 es 16
+    El cuadrado de 5 es 25
+    El cuadrado de 6 es 36
+    El cuadrado de 7 es 49
+    El cuadrado de 8 es 64
+
+- Diccionario:
+Escribir un programa que pregunte al usuario su nombre, edad, dirección y teléfono y lo guarde en un diccionario.
+Despúes debe mostrar por pantalla el mensaje:
+	<nombre> tiene <edad> años, vive en <dirección> y su número de teléfono es <teléfono>.
+Output:
+	Pepe tiene 15 años, vive en Perú y su número de teléfono es 123456789
